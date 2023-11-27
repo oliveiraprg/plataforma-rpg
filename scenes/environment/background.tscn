@@ -9,7 +9,6 @@
 
 [node name="Background" type="ParallaxBackground"]
 script = ExtResource("1_x38gf")
-can_process = true
 layers_speed = Array[int]([20, 15, 10, 5])
 
 [node name="Layer4" type="ParallaxLayer" parent="."]
